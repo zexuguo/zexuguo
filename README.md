@@ -93,7 +93,6 @@ Formación técnica centrada en seguridad de redes, sistemas y análisis de vuln
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/SESSION__LOG-active-000000?style=flat-square&labelColor=000000&color=1a1a1a" alt="session log" height="20"/>
-<img src="https://komarev.com/ghpvc/?username=zexuguo&label=UNIQUE_VISITS&color=000000&style=flat-square" alt="visitas únicas" height="20"/>
+<sub>zg // unique_visits <img src="https://komarev.com/ghpvc/?username=zexuguo&label=&color=000000&style=flat-square" alt="" height="13" width="24" style="vertical-align:middle;opacity:0.8"/></sub>
 
 </div>
