@@ -12,7 +12,7 @@
 
 ### Sobre mí
 
-Estudiante en **42 Barcelona**, con formación previa como **Técnico en Ciberseguridad (SMX)** en **EDT BCN**. Trabajo principalmente en sistemas, redes y programación de bajo nivel, con un enfoque práctico orientado a proyectos y resolución de problemas reales.
+Estudiante en **42 Barcelona**, con formación previa como **Técnico en Ciberseguridad (SMX)** en **EDT BCN**. Trabajo principalmente en sistemas, redes y programación de bajo nivel, con un enfoque práctico orientado a proyectos y resolución de problemas reales antes que a la teoría por sí sola.
 
 <br/>
 
@@ -52,10 +52,44 @@ Estudiante en **42 Barcelona**, con formación previa como **Técnico en Ciberse
 
 <br/>
 
+<details>
+<summary><b>ACTUALMENTE</b></summary>
+<br/>
+
+- Cursando el cursus de 42 Barcelona (piscina / proyectos comunes)
+- Reforzando fundamentos de C, algoritmia y estructuras de datos
+- Profundizando en redes, administración de sistemas Linux y seguridad ofensiva básica
+
+</details>
+
+<details>
+<summary><b>CÓMO TRABAJO</b></summary>
+<br/>
+
+Prefiero entender el problema antes que memorizar una solución. La formación en 42 refuerza esto por diseño: sin clases, sin profesores, aprendizaje entre pares y evaluación por proyectos. La base en ciberseguridad (SMX) le suma una capa extra de rigor — pensar en cómo se rompe un sistema ayuda a entender cómo construirlo bien.
+
+</details>
+
+<details>
+<summary><b>SMX — TÉCNICO EN CIBERSEGURIDAD (EDT BCN)</b></summary>
+<br/>
+
+Formación técnica centrada en seguridad de redes, sistemas y análisis de vulnerabilidades — la base sobre la que ahora construyo con una formación más orientada a desarrollo y sistemas en 42 Barcelona.
+
+</details>
+
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zexuguo&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_rank=true" alt="Estadísticas de GitHub" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zexuguo&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Lenguajes principales" height="165"/>
+<img src="assets/stats.svg" width="800" alt="Estadísticas en vivo" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zexuguo/zexuguo/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/zexuguo/zexuguo/output/snake.svg" alt="Gráfico de contribuciones" width="800" />
+</picture>
 
 <br/><br/>
 
