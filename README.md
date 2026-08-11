@@ -86,13 +86,6 @@ Formación técnica centrada en seguridad de redes, sistemas y análisis de vuln
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zexuguo/zexuguo/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/zexuguo/zexuguo/output/snake.svg" alt="Gráfico de contribuciones" width="800" />
-</picture>
-
-<br/><br/>
-
 <sub>zg // unique_visits <img src="https://komarev.com/ghpvc/?username=zexuguo&label=&color=000000&style=flat-square" alt="" height="13" width="24" style="vertical-align:middle;opacity:0.8"/></sub>
 
 </div>
