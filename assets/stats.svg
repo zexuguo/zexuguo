@@ -30,6 +30,9 @@
 <text class="stat-v" x="624.4" y="88">77</text>
 <line class="rule" x1="26" y1="112" x2="774" y2="112"/>
 <text class="label" x="26" y="132">TOP_LANGUAGES</text>
-<text class="lang" x="26" y="156">sin datos suficientes todavia</text>
+<text class="lang" x="26" y="144.0">Python</text>
+<text class="pct" x="774.0" y="144.0" text-anchor="end">100.0%</text>
+<rect class="bar-bg" x="26" y="146.0" width="748.0" height="10" rx="2"/>
+<rect class="bar-fg" x="26" y="146.0" width="748.0" height="10" rx="2"/>
 <rect class="cursor" x="28" y="212" width="6" height="10"/>
 </svg>
