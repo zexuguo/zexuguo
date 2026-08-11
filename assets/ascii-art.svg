@@ -1,0 +1,111 @@
+<svg width="420" height="514" viewBox="0 0 420 514" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="cardGrad" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="var(--card-a)"/>
+    <stop offset="100%" stop-color="var(--card-b)"/>
+  </linearGradient>
+  <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur stdDeviation="6" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+<style>
+  :root {
+    --bg: #f4f6fb;
+    --card-a: rgba(255,255,255,0.62);
+    --card-b: rgba(255,255,255,0.28);
+    --border: rgba(15,23,42,0.10);
+    --ascii: #16213a;
+    --accent: #2563eb;
+    --title: #64748b;
+    --dot1:#ff5f56; --dot2:#ffbd2e; --dot3:#27c93f;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0a0c10;
+      --card-a: rgba(255,255,255,0.06);
+      --card-b: rgba(255,255,255,0.02);
+      --border: rgba(255,255,255,0.10);
+      --ascii: #dbe4f3;
+      --accent: #4f8cff;
+      --title: #8b96a8;
+    }
+  }
+  .bg { fill: var(--bg); }
+  .card { fill: url(#cardGrad); stroke: var(--border); stroke-width: 1; }
+  .title { fill: var(--title); font: 600 11px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; letter-spacing: 0.4px; }
+  .ascii { fill: var(--ascii); font: 7.2px/1 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+  .accent { fill: var(--accent); }
+  .dot1{fill:var(--dot1)} .dot2{fill:var(--dot2)} .dot3{fill:var(--dot3)}
+  .row { opacity: 0; animation: reveal 0.7s ease forwards; }
+  @keyframes reveal { to { opacity: 1; } }
+  .cursor { animation: blink 1s steps(2, jump-none) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+  .pulse { animation: pulseGlow 3s ease-in-out infinite; }
+  @keyframes pulseGlow { 0%,100% { opacity: 0.55; } 50% { opacity: 1; } }
+</style>
+<rect class="bg" width="420" height="514" rx="18"/>
+<rect class="card pulse" x="4" y="4" width="412" height="506" rx="16" filter="url(#glow)"/>
+<circle class="dot1" cx="32" cy="32" r="4.2"/>
+<circle class="dot2" cx="46" cy="32" r="4.2"/>
+<circle class="dot3" cx="60" cy="32" r="4.2"/>
+<text class="title" x="210.0" y="36" text-anchor="middle">zexuguo.ascii</text>
+<line x1="13.0" y1="40" x2="407.0" y2="40" stroke="var(--border)" stroke-width="1"/>
+<text class="ascii row" x="26" y="60.80" style="animation-delay:0.0s" xml:space="preserve">==-----------------------------------------------:--------------------------====</text>
+<text class="ascii row" x="26" y="68.80" style="animation-delay:0.018s" xml:space="preserve">--------------------------------------::::::----::----------------------------==</text>
+<text class="ascii row" x="26" y="76.80" style="animation-delay:0.036s" xml:space="preserve">----------------------------------::::::::::::::::------------------------------</text>
+<text class="ascii row" x="26" y="84.80" style="animation-delay:0.054s" xml:space="preserve">-------------------------------::::::::::::::::::::::::-------------------------</text>
+<text class="ascii row" x="26" y="92.80" style="animation-delay:0.072s" xml:space="preserve">------------------------:::::::::::::::::::::::::::::::-------------------------</text>
+<text class="ascii row" x="26" y="100.80" style="animation-delay:0.09s" xml:space="preserve">---------------::-:::::::::::::::::::::::::::::::::::::-------------------------</text>
+<text class="ascii row" x="26" y="108.80" style="animation-delay:0.108s" xml:space="preserve">-------=---:::::---::::::---:::::::::::::::::::::::::::::-----------------------</text>
+<text class="ascii row" x="26" y="116.80" style="animation-delay:0.126s" xml:space="preserve">---------=-+-::-=------:::::::::::::::::::::::::::::::::::::::------------------</text>
+<text class="ascii row" x="26" y="124.80" style="animation-delay:0.144s" xml:space="preserve">------::::=+:-==---:::::::::::::::::::::::::::::::::::::::::::::----------------</text>
+<text class="ascii row" x="26" y="132.80" style="animation-delay:0.162s" xml:space="preserve">-----::--:=---::::::::::::::::::::..:::::......:::::::::::::::::::::------------</text>
+<text class="ascii row" x="26" y="140.80" style="animation-delay:0.18s" xml:space="preserve">----::::::=::-::::::::::::::::...................::::::::::::::::::::-----------</text>
+<text class="ascii row" x="26" y="148.80" style="animation-delay:0.198s" xml:space="preserve">--:::::::-+---:-::::::::........:::......:.......::::::::::::::::::::::---------</text>
+<text class="ascii row" x="26" y="156.80" style="animation-delay:0.216s" xml:space="preserve">::::::::-=-:::::::::::::::::...:::::::::...:::...::::::::::::::::::::::::::::---</text>
+<text class="ascii row" x="26" y="164.80" style="animation-delay:0.234s" xml:space="preserve">:::::--==-:--:---::::.:::.::::::::-::..:::::::::...::..:::::::::::::::::::::::--</text>
+<text class="ascii row" x="26" y="172.80" style="animation-delay:0.252s" xml:space="preserve">::--==-::::::::::..::::::...:--::::::::::::.::::::::........::::::::::::::::::::</text>
+<text class="ascii row" x="26" y="180.80" style="animation-delay:0.27s" xml:space="preserve">-==-:::::.....::..--:::--==+++==----:---:.:---==-::::..:.......:::::::::::::::::</text>
+<text class="ascii row" x="26" y="188.80" style="animation-delay:0.288s" xml:space="preserve">-::--:::::::::::..::::--=++**###**++=----+*##**+=+==-----::::..:::::::::::::::::</text>
+<text class="ascii row" x="26" y="196.80" style="animation-delay:0.306s" xml:space="preserve">.::----::::......:::-=+*+*%%%%%%#=*##***######%%##**+***+==-------::::::::::::::</text>
+<text class="ascii row" x="26" y="204.80" style="animation-delay:0.324s" xml:space="preserve">:-=--::::...----:=*##%%%%@@%%@@@%+**+######%@@@%%%%#**#**#*=-::::::.::::::::::::</text>
+<text class="ascii row" x="26" y="212.80" style="animation-delay:0.342s" xml:space="preserve">--:---:::...==:.+####%%%%%%%@@@@@@%#####%@%%@@@@@%%%####%%#**#**+++=-.::::::::::</text>
+<text class="ascii row" x="26" y="220.80" style="animation-delay:0.36s" xml:space="preserve">--:-::::.....-=+%%*##%%#***#%%@@@%%@@@@@@@%%%%@@@@@@%%%%%%%%%#=-:::-==:.::::::::</text>
+<text class="ascii row" x="26" y="228.80" style="animation-delay:0.378s" xml:space="preserve">:::...:..:.....*@%%%%%##%%@%@@%%%%%%%@@@@@@%%%%@@%@@@%%%%@@%##=:--:-=+=-.:::::::</text>
+<text class="ascii row" x="26" y="236.80" style="animation-delay:0.396s" xml:space="preserve">::.:::...::-=-=*#@@@%%%%@@@@@@%#*##%%%%@@@@@@@@@@@@@@@@@@@%%@%#*+=-:==-=.:::::::</text>
+<text class="ascii row" x="26" y="244.80" style="animation-delay:0.414s" xml:space="preserve">::::::..:++-*#%**%%%@@@@@@@%%%@#***#####*##%%%%@@@@@@@@@@@%%@%##%*==+==:.:::::::</text>
+<text class="ascii row" x="26" y="252.80" style="animation-delay:0.432s" xml:space="preserve">:....::-+**##+###%%%@@@@@@%%##@#*+++++**++***###%%%%@@@@%%@@%@%#%#**++::::..::::</text>
+<text class="ascii row" x="26" y="260.80" style="animation-delay:0.45s" xml:space="preserve">-:::-+#%#++*+*%%%%@@@@@@@%%#%%#*+++++**++**********+######%%%%%%##+-.++:::..::::</text>
+<text class="ascii row" x="26" y="268.80" style="animation-delay:0.468s" xml:space="preserve">:.::===+*+*#%##%%@@@@@@@%%%%%######**+*******####%%######*#%%%%%%#**+=+-..::::::</text>
+<text class="ascii row" x="26" y="276.80" style="animation-delay:0.486s" xml:space="preserve">..:-==*#####%##%@@@@@@@%%%###%%%%%##*******########%##%%###%%%%%%%%%##*-:.::::::</text>
+<text class="ascii row" x="26" y="284.80" style="animation-delay:0.504s" xml:space="preserve">...-#%###+-+#*%%%%@@@@%##*+++++********+++********++++++****#%@@%%%%##*+::..::::</text>
+<text class="ascii row" x="26" y="292.80" style="animation-delay:0.522s" xml:space="preserve">..:##-=#%#=+#%@@@@@@@#**+++++*****#***+++++*###****+++==-=--=*%@@%%*#%#*=:...:::</text>
+<text class="ascii row" x="26" y="300.80" style="animation-delay:0.54s" xml:space="preserve">.:#*:.-##%@@@@@@@@@@#****####%%@%%#***+===+*##%%@@%%#**++==---*@@@@%#*##+::..:::</text>
+<text class="ascii row" x="26" y="308.80" style="animation-delay:0.558s" xml:space="preserve">=+-:-:+%%%%%%@@@@@@#****###%%@@%%#**++==--=+**#%%%%%%%##*+==-:-#@@@%#+*%*-:.::::</text>
+<text class="ascii row" x="26" y="316.80" style="animation-delay:0.576s" xml:space="preserve">-:..-=+*###%@@@@@@%*+++++++++**+++++===-----=++++****+==-------+@@@%%#*%*:::::::</text>
+<text class="ascii row" x="26" y="324.80" style="animation-delay:0.594s" xml:space="preserve">.......:-*#%%%@@@@#++=============+===-------===========------:=@@@%@%*%=..:::::</text>
+<text class="ascii row" x="26" y="332.80" style="animation-delay:0.612s" xml:space="preserve">.......:=*##%%@@@@*=============++======------++===----------::-%@%%@%%+:...::::</text>
+<text class="ascii row" x="26" y="340.80" style="animation-delay:0.63s" xml:space="preserve">:.::..=++=+%%%@@@@+============+*+=+**++++++=--*+===---------::=%%%%#+=-::::::::</text>
+<text class="ascii row" x="26" y="348.80" style="animation-delay:0.648s" xml:space="preserve">::-:---:::++#%@@@@*===========++***%@@####%@%+=+*+===--------::=%%*=::::::::::::</text>
+<text class="ascii row" x="26" y="356.80" style="animation-delay:0.666s" xml:space="preserve">::.......*=:#@@@@@*=========+++**#%%%%#%%%%%%#**++=====------::+%##*=::-::::::::</text>
+<text class="ascii row" x="26" y="364.80" style="animation-delay:0.684s" xml:space="preserve">:::.....=#%*%@@@@@#===++**##%%@@@@@%#%%@@%%%%%%%##**+===-----::+*=%%%#*=-:::::::</text>
+<text class="ascii row" x="26" y="372.80" style="animation-delay:0.702s" xml:space="preserve">:::....:-:+%@@@@%####%%@@@@@@@@@@@@@@%%@@@@@@@@@@@@@@%##*++=-::*+:#%%%*+-:::::::</text>
+<text class="ascii row" x="26" y="380.80" style="animation-delay:0.72s" xml:space="preserve">:::.:..-+-=+#%%#%%%%@@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@@@@@@@@%#*+*+-+%%#+-::::::::</text>
+<text class="ascii row" x="26" y="388.80" style="animation-delay:0.738s" xml:space="preserve">:::::..:+***####%%%%@@@@@@@@@@@%%%%%@@@%%%@@%%%%@@%%@%@@@@%%%####***%%#*-:::::::</text>
+<text class="ascii row" x="26" y="396.80" style="animation-delay:0.756s" xml:space="preserve">:::::...:::-*###%%%@@@@@@@@@%%%#%@@@@@@@%%%%%%@@@@@%%%@@@@@@%####***%%#*=:::::::</text>
+<text class="ascii row" x="26" y="404.80" style="animation-delay:0.774s" xml:space="preserve">::::::.....:+###%@@@@@@@@@@@%##%@@@@@@@@@@@@@@@@@@@%%%%%@@@@%#*#****@%#=::::::::</text>
+<text class="ascii row" x="26" y="412.80" style="animation-delay:0.792s" xml:space="preserve">::::::.....:*##%@@@@@@@@@@%%##%%@@@@@@@@@@@@@@@@@@@@@%%%#%@@%###****+%*:::::::--</text>
+<text class="ascii row" x="26" y="420.80" style="animation-delay:0.81s" xml:space="preserve">:::::.-=-:..+#%%%%%%%@@@%#**#%%%@@@@@@@@@@@@@@@@@@@@@@@%%#%%%####*+--+:::::::::-</text>
+<text class="ascii row" x="26" y="428.80" style="animation-delay:0.828s" xml:space="preserve">::::.:#%@%=+##%%%%%%%%%%#**##%%%@@@@@@@%%%%%%%%%%@@@@@@@@%##***###**%#=:::::::::</text>
+<text class="ascii row" x="26" y="436.80" style="animation-delay:0.846s" xml:space="preserve">::-:.*%%%%##%%@@%%%%###*###%%%%@@@@@@@@@%%%%%%%%%%%%%%%%%@@@*+###%%@%%#-::::::::</text>
+<text class="ascii row" x="26" y="444.80" style="animation-delay:0.864s" xml:space="preserve">-::::######%%%%%%%####*####%%%@@@@@@@@@@@@@%%%%%%%%%%%%%%%%%##%##**#%%#=::::::::</text>
+<text class="ascii row" x="26" y="452.80" style="animation-delay:0.882s" xml:space="preserve">:::.=#***%@@@%%%%%%%#+*###%%%@@@@@@@@@@@@@%%%%%%%%%%@@%%%%%#%%%@@%*+*#*==:::::::</text>
+<text class="ascii row" x="26" y="460.80" style="animation-delay:0.9s" xml:space="preserve">:::.+#*#%@@@@%%%%%%###%##%%@@@@@@@@@@@@@@@@%%####%#%%%%%%%###%%@@@@%***==-::::::</text>
+<text class="ascii row" x="26" y="468.80" style="animation-delay:0.918s" xml:space="preserve">::.:*##%@@@@@%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@%%#############**##@@@@@%##++=::::::</text>
+<text class="ascii row" x="26" y="476.80" style="animation-delay:0.936s" xml:space="preserve">..::+%%@@@@@@@%%@@@@@%%%@@@@@@@@@@@@@@@@@@@@@%#################@@@@@@%#*++-:::::</text>
+<rect class="accent cursor" x="30" y="488.4" width="7" height="11"/>
+</svg>

@@ -1,0 +1,53 @@
+<svg width="760" height="120" viewBox="0 0 760 120" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <filter id="glow2" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur stdDeviation="7" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<style>
+  :root {
+    --bg: #f4f6fb;
+    --card-a: rgba(255,255,255,0.62);
+    --card-b: rgba(255,255,255,0.28);
+    --border: rgba(15,23,42,0.10);
+    --text: #16213a;
+    --sub: #56607a;
+    --accent: #2563eb;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0a0c10;
+      --card-a: rgba(255,255,255,0.06);
+      --card-b: rgba(255,255,255,0.02);
+      --border: rgba(255,255,255,0.10);
+      --text: #eef2ff;
+      --sub: #93a0bd;
+      --accent: #4f8cff;
+    }
+  }
+  .bg { fill: var(--bg); }
+  .card { fill: var(--card-a); stroke: var(--border); stroke-width: 1; }
+  .prompt { fill: var(--accent); font: 700 22px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+  .name { fill: var(--text); font: 700 26px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+  .phrase { fill: var(--sub); font: 500 17px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; opacity: 0; }
+  .cursor { animation: blink 1s steps(2, jump-none) infinite; fill: var(--accent); }
+  @keyframes blink { 50% { opacity: 0; } }
+  @keyframes cyc {
+    0% { opacity: 0; transform: translateY(4px); }
+    4% { opacity: 1; transform: translateY(0); }
+    19.0% { opacity: 1; }
+    23.0% { opacity: 0; transform: translateY(-4px); }
+    100% { opacity: 0; }
+  }
+  .cyc { animation: cyc 12.8s ease-in-out infinite; }
+</style>
+<rect class="bg" width="760" height="120" rx="16"/>
+<rect class="card" x="4" y="4" width="752" height="112" rx="14" filter="url(#glow2)"/>
+<text class="prompt" x="34" y="46">&gt;</text>
+<text class="name" x="60" y="46">Zexu Guo <tspan class="cursor">_</tspan></text>
+<text class="phrase cyc" x="34" y="86" style="animation-delay:0.00s">Estudiante en 42 Barcelona</text>
+<text class="phrase cyc" x="34" y="86" style="animation-delay:3.20s">Tecnico en Ciberseguridad (SMX) - EDT BCN</text>
+<text class="phrase cyc" x="34" y="86" style="animation-delay:6.40s">Git . C . Python . Java . HTML . CSS</text>
+<text class="phrase cyc" x="34" y="86" style="animation-delay:9.60s">Redes y Sistemas</text>
+</svg>
