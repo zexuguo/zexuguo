@@ -27,7 +27,7 @@
 <text class="stat-k" x="474.8" y="58">SEGUIDORES</text>
 <text class="stat-v" x="474.8" y="88">0</text>
 <text class="stat-k" x="624.4" y="58">DIAS_ACTIVO</text>
-<text class="stat-v" x="624.4" y="88">86</text>
+<text class="stat-v" x="624.4" y="88">87</text>
 <line class="rule" x1="26" y1="112" x2="774" y2="112"/>
 <text class="label" x="26" y="132">TOP_LANGUAGES</text>
 <text class="lang" x="26" y="144.0">TypeScript</text>
