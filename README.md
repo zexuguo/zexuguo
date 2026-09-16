@@ -57,6 +57,7 @@ Estudiante en **42 Barcelona**, con formación previa como **Técnico en Ciberse
 <br/>
 
 - Cursando el cursus de 42 Barcelona (piscina / proyectos comunes)
+- En paralelo, cursando el CFGS DAM (Desenvolupament d'Aplicacions Multiplataforma) en ITIC BCN
 - Reforzando fundamentos de C, algoritmia y estructuras de datos
 - Profundizando en redes, administración de sistemas Linux y seguridad ofensiva básica
 
