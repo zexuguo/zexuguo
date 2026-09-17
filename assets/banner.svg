@@ -8,12 +8,12 @@
   </style>
 </defs>
 <style>
-  .card { fill: #000000; stroke: rgba(255,255,255,0.16); stroke-width: 1; }
-  .prompt { fill: #ffffff; font: 26px "STMono", monospace; }
-  .name { fill: #ffffff; font: 26px "STMono", monospace; letter-spacing: 1px; }
-  .phrase { fill: rgba(255,255,255,0.6); font: 14px "STMono", monospace; letter-spacing: 2px; opacity: 0; }
-  .rule { stroke: rgba(255,255,255,0.14); stroke-width: 1; }
-  .cursor { animation: blink 1s steps(2, jump-none) infinite; fill: #ffffff; }
+  .card { fill: #f6f8fa; stroke: #d0d7de; stroke-width: 1; }
+  .prompt { fill: #57606a; font: 26px "STMono", monospace; }
+  .name { fill: #24292f; font: 26px "STMono", monospace; letter-spacing: 1px; }
+  .phrase { fill: #57606a; font: 14px "STMono", monospace; letter-spacing: 2px; opacity: 0; }
+  .rule { stroke: #d0d7de; stroke-width: 1; }
+  .cursor { animation: blink 1s steps(2, jump-none) infinite; fill: #24292f; }
   @keyframes blink { 50% { opacity: 0; } }
   @keyframes cyc {
     0% { opacity: 0; }
@@ -23,6 +23,14 @@
     100% { opacity: 0; }
   }
   .cyc { animation: cyc 12.8s ease-in-out infinite; }
+  @media (prefers-color-scheme: dark) {
+    .card { fill: #0d1117; stroke: #30363d; }
+    .prompt { fill: #8b949e; }
+    .name { fill: #c9d1d9; }
+    .phrase { fill: #8b949e; }
+    .rule { stroke: #30363d; }
+    .cursor { fill: #c9d1d9; }
+  }
 </style>
 <rect class="card" x="1" y="1" width="798" height="126" rx="10"/>
 <line class="rule" x1="0" y1="79" x2="800" y2="79"/>

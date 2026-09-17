@@ -64,17 +64,29 @@ def main():
       @font-face {{ font-family:"STMono"; src:url(data:font/ttf;base64,{font_b64}) format("truetype"); }}
     </style></defs>''')
     svg.append(f'''<style>
-      .card {{ fill:#000000; stroke:rgba(255,255,255,0.16); stroke-width:1; }}
-      .label {{ fill:rgba(255,255,255,0.55); font:11px "STMono",monospace; letter-spacing:2px; }}
-      .rule {{ stroke:rgba(255,255,255,0.14); stroke-width:1; }}
-      .stat-k {{ fill:rgba(255,255,255,0.55); font:11px "STMono",monospace; letter-spacing:1.5px; }}
-      .stat-v {{ fill:#ffffff; font:26px "STMono",monospace; }}
-      .bar-bg {{ fill:rgba(255,255,255,0.12); }}
-      .bar-fg {{ fill:#ffffff; }}
-      .lang {{ fill:#ffffff; font:12px "STMono",monospace; }}
-      .pct {{ fill:rgba(255,255,255,0.5); font:11px "STMono",monospace; }}
-      .cursor {{ animation: blink 1.1s steps(2, jump-none) infinite; fill:#ffffff; }}
+      .card {{ fill:#f6f8fa; stroke:#d0d7de; stroke-width:1; }}
+      .label {{ fill:#57606a; font:11px "STMono",monospace; letter-spacing:2px; }}
+      .rule {{ stroke:#d0d7de; stroke-width:1; }}
+      .stat-k {{ fill:#57606a; font:11px "STMono",monospace; letter-spacing:1.5px; }}
+      .stat-v {{ fill:#24292f; font:26px "STMono",monospace; }}
+      .bar-bg {{ fill:#eaeef2; }}
+      .bar-fg {{ fill:#0969da; }}
+      .lang {{ fill:#24292f; font:12px "STMono",monospace; }}
+      .pct {{ fill:#57606a; font:11px "STMono",monospace; }}
+      .cursor {{ animation: blink 1.1s steps(2, jump-none) infinite; fill:#24292f; }}
       @keyframes blink {{ 50% {{ opacity:0; }} }}
+      @media (prefers-color-scheme: dark) {{
+        .card {{ fill:#0d1117; stroke:#30363d; }}
+        .label {{ fill:#8b949e; }}
+        .rule {{ stroke:#30363d; }}
+        .stat-k {{ fill:#8b949e; }}
+        .stat-v {{ fill:#c9d1d9; }}
+        .bar-bg {{ fill:#21262d; }}
+        .bar-fg {{ fill:#58a6ff; }}
+        .lang {{ fill:#c9d1d9; }}
+        .pct {{ fill:#8b949e; }}
+        .cursor {{ fill:#c9d1d9; }}
+      }}
     </style>''')
     svg.append(f'<rect class="card" x="1" y="1" width="{W-2}" height="{H-2}" rx="10"/>')
     svg.append(f'<text class="label" x="{PAD}" y="{PAD-4}">ZG // LIVE_STATS</text>')
