@@ -44,7 +44,7 @@ Estudiante en **42 Barcelona**, con formación previa como **Técnico en Ciberse
 </td>
 <td align="center" width="48%">
 
-<img src="assets/portrait.jpg" width="280" alt="Zexu Guo"/>
+<img src="assets/portrait.jpg" width="380" alt="Zexu Guo"/>
 
 </td>
 </tr>
