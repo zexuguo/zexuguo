@@ -12,14 +12,15 @@
 
 ### Sobre mí
 
-Estudiante en **42 Barcelona**, con formación previa como **Desarollador de aplicaciones multiplataforma** en **ITIC BCN**. Trabajo principalmente en sistemas, redes y programación de bajo nivel, con un enfoque práctico orientado a proyectos y resolución de problemas reales antes que a la teoría por sí sola.
+Estudiante en **42 Barcelona**, con formación previa como **Tecnico de redes y sistemas** en **EDT BCN**, **Desarollador de aplicaciones multiplataforma** en **ITIC BCN**. Trabajo principalmente en sistemas, redes y programación de bajo nivel, con un enfoque práctico orientado a proyectos y resolución de problemas reales antes que a la teoría por sí sola.
 
 <br/>
 
 | | |
 |---|---|
 | `EDUCACIÓN` | 42 Barcelona |
-| `FORMACIÓN` | Técnico en Ciberseguridad (SMX) — EDT BCN |
+| `FORMACIÓN` | Técnico en redes y sistemas (SMX) — EDT BCN |
+| `FROMACÍON` | Desarollador de aplicacion multiplataforma (DAM) - ITIC BCN |
 | `ENFOQUE` | Sistemas y Redes |
 | `UBICACIÓN` | Barcelona, España |
 
@@ -72,7 +73,7 @@ Prefiero entender el problema antes que memorizar una solución. La formación e
 </details>
 
 <details>
-<summary><b>SMX — TÉCNICO EN CIBERSEGURIDAD (EDT BCN)</b></summary>
+<summary><b>DESAROLLADOR DE APLICACIONES MULTIPLATAFROMA (ITIC BCN)</b></summary>
 <br/>
 
 Formación técnica centrada en seguridad de redes, sistemas y análisis de vulnerabilidades — la base sobre la que ahora construyo con una formación más orientada a desarrollo y sistemas en 42 Barcelona.
