@@ -50,11 +50,11 @@
 <text class="pct" x="774.0" y="170.0" text-anchor="end">21.9%</text>
 <rect class="bar-bg" x="26" y="172.0" width="748.0" height="10" rx="2"/>
 <rect class="bar-fg" x="26" y="172.0" width="163.9" height="10" rx="2"/>
-<text class="lang" x="26" y="196.0">Java</text>
+<text class="lang" x="26" y="196.0">JavaScript</text>
 <text class="pct" x="774.0" y="196.0" text-anchor="end">2.4%</text>
 <rect class="bar-bg" x="26" y="198.0" width="748.0" height="10" rx="2"/>
 <rect class="bar-fg" x="26" y="198.0" width="17.6" height="10" rx="2"/>
-<text class="lang" x="26" y="222.0">C</text>
+<text class="lang" x="26" y="222.0">CSS</text>
 <text class="pct" x="774.0" y="222.0" text-anchor="end">2.1%</text>
 <rect class="bar-bg" x="26" y="224.0" width="748.0" height="10" rx="2"/>
 <rect class="bar-fg" x="26" y="224.0" width="15.4" height="10" rx="2"/>
