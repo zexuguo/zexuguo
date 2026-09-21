@@ -12,7 +12,7 @@
 
 ### Sobre mí
 
-Estudiante en **42 Barcelona**, con formación previa como **Técnico en Ciberseguridad (SMX)** en **EDT BCN**. Trabajo principalmente en sistemas, redes y programación de bajo nivel, con un enfoque práctico orientado a proyectos y resolución de problemas reales antes que a la teoría por sí sola.
+Estudiante en **42 Barcelona**, con formación previa como **Desarollador de aplicaciones multiplataforma** en **ITIC BCN**. Trabajo principalmente en sistemas, redes y programación de bajo nivel, con un enfoque práctico orientado a proyectos y resolución de problemas reales antes que a la teoría por sí sola.
 
 <br/>
 
