@@ -99,10 +99,6 @@ Desenvolupament d'Aplicacions Multiplataforma (DAM), en paralelo con 42 Barcelon
 
 <div align="center">
 
-<img src="assets/stats.svg" width="800" alt="Estadísticas en vivo" />
-
-<br/><br/>
-
 <sub>zg // unique_visits <img src="https://komarev.com/ghpvc/?username=zexuguo&label=&color=000000&style=flat-square" alt="" height="13" width="24" style="vertical-align:middle;opacity:0.8"/></sub>
 
 </div>
