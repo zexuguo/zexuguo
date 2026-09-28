@@ -12,15 +12,15 @@
 
 ### Sobre mí
 
-Estudiante en **42 Barcelona**, con formación previa como **Tecnico de redes y sistemas** en **EDT BCN**, **Desarollador de aplicaciones multiplataforma** en **ITIC BCN**. Trabajo principalmente en sistemas, redes y programación de bajo nivel, con un enfoque práctico orientado a proyectos y resolución de problemas reales antes que a la teoría por sí sola.
+Estudiante en **42 Barcelona**, con formación previa como **Técnico en Sistemas y Redes (SMX)** en **EDT BCN**. Trabajo principalmente en sistemas, redes y programación de bajo nivel, con un enfoque práctico orientado a proyectos y resolución de problemas reales antes que a la teoría por sí sola.
 
 <br/>
 
 | | |
 |---|---|
-| `EDUCACIÓN` | 42 Barcelona |
-| `FORMACIÓN` | Técnico en redes y sistemas (SMX) — EDT BCN |
-| `FROMACÍON` | Desarollador de aplicacion multiplataforma (DAM) - ITIC BCN |
+| `EDUCACIÓN` | 42 Barcelona (2026 — actualidad) |
+| `FORMACIÓN` | Técnico en Sistemas y Redes (SMX) — EDT BCN (2024–2026) |
+| `PRÓXIMO` | Desenvolupament d'Aplicacions Multiplataforma (DAM) — ITIC BCN (2027) |
 | `ENFOQUE` | Sistemas y Redes |
 | `UBICACIÓN` | Barcelona, España |
 
@@ -32,6 +32,7 @@ Estudiante en **42 Barcelona**, con formación previa como **Tecnico de redes y 
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -58,7 +59,6 @@ Estudiante en **42 Barcelona**, con formación previa como **Tecnico de redes y 
 <br/>
 
 - Cursando el cursus de 42 Barcelona (piscina / proyectos comunes)
-- En paralelo, cursando el CFGS DAM (Desenvolupament d'Aplicacions Multiplataforma) en ITIC BCN
 - Reforzando fundamentos de C, algoritmia y estructuras de datos
 - Profundizando en redes, administración de sistemas Linux y seguridad ofensiva básica
 
@@ -68,17 +68,31 @@ Estudiante en **42 Barcelona**, con formación previa como **Tecnico de redes y 
 <summary><b>CÓMO TRABAJO</b></summary>
 <br/>
 
-Prefiero entender el problema antes que memorizar una solución. La formación en 42 refuerza esto por diseño: sin clases, sin profesores, aprendizaje entre pares y evaluación por proyectos. La base en ciberseguridad (SMX) le suma una capa extra de rigor — pensar en cómo se rompe un sistema ayuda a entender cómo construirlo bien.
+Prefiero entender el problema antes que memorizar una solución. La formación en 42 refuerza esto por diseño: sin clases, sin profesores, aprendizaje entre pares y evaluación por proyectos. La base en sistemas y redes (SMX) le suma una capa extra de rigor — pensar en cómo se rompe un sistema ayuda a entender cómo construirlo bien.
 
 </details>
 
 <details>
-<summary><b>DESAROLLADOR DE APLICACIONES MULTIPLATAFROMA (ITIC BCN)</b></summary>
+<summary><b>TÉCNICO EN SISTEMAS Y REDES — SMX (EDT BCN, 2024–2026)</b></summary>
 <br/>
 
-Formación técnica centrada en seguridad de redes, sistemas y análisis de vulnerabilidades — la base sobre la que ahora construyo con una formación más orientada a desarrollo y sistemas en 42 Barcelona.
+Formación técnica centrada en administración de sistemas, redes y seguridad informática básica — la base sobre la que ahora construyo con una formación más orientada a desarrollo y bajo nivel en 42 Barcelona.
 
 </details>
+
+<details>
+<summary><b>PRÓXIMO: DAM — ITIC BCN (2027)</b></summary>
+<br/>
+
+Desenvolupament d'Aplicacions Multiplataforma (DAM), a continuación de 42 Barcelona — profundizará en desarrollo de aplicaciones multiplataforma sobre la base de sistemas y bajo nivel construida hasta ahora.
+
+</details>
+
+<br/>
+
+**PROYECTOS**
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/zexuguo/portfolio)
 
 <br/>
 
