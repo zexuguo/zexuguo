@@ -10,19 +10,19 @@
 <tr>
 <td valign="top" width="52%">
 
-### Sobre mí
+### About me
 
-Estudiante en **42 Barcelona** y, en paralelo, en el CFGS **DAM** en **ITIC BCN**, con formación previa como **Técnico en Sistemas y Redes (SMX)** en **EDT BCN**. Trabajo principalmente en sistemas, redes y programación de bajo nivel, con un enfoque práctico orientado a proyectos y resolución de problemas reales antes que a la teoría por sí sola.
+Student at **42 Barcelona**, in parallel with the **DAM** program at **ITIC BCN**, with a prior technical background as a **Systems & Networks Technician (SMX)** from **EDT BCN**. I mostly work on systems, networking and low-level programming, with a practical, project-first approach over theory for its own sake.
 
 <br/>
 
 | | |
 |---|---|
-| `EDUCACIÓN` | 42 Barcelona (2026 — actualidad) |
-| `EN PARALELO` | Desenvolupament d'Aplicacions Multiplataforma (DAM) — ITIC BCN (2026–2029) |
-| `FORMACIÓN` | Técnico en Sistemas y Redes (SMX) — EDT BCN (2024–2026) |
-| `ENFOQUE` | Sistemas y Redes |
-| `UBICACIÓN` | Barcelona, España |
+| `EDUCATION` | 42 Barcelona (2026 — present) |
+| `IN PARALLEL` | Multiplatform App Development (DAM) — ITIC BCN (2026–2029) |
+| `BACKGROUND` | Systems & Networks Technician (SMX) — EDT BCN (2024–2026) |
+| `FOCUS` | Systems & Networking |
+| `LOCATION` | Barcelona, Spain |
 
 <br/>
 
@@ -38,7 +38,7 @@ Estudiante en **42 Barcelona** y, en paralelo, en el CFGS **DAM** en **ITIC BCN*
 
 <br/>
 
-**CONTACTO**
+**CONTACT**
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zexu-guo-b4517740a/)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_zex.uu/)
@@ -55,29 +55,29 @@ Estudiante en **42 Barcelona** y, en paralelo, en el CFGS **DAM** en **ITIC BCN*
 <br/>
 
 <details>
-<summary><b>ACTUALMENTE</b></summary>
+<summary><b>CURRENTLY</b></summary>
 <br/>
 
-- Cursando el cursus de 42 Barcelona (piscina / proyectos comunes)
-- En paralelo, cursando el CFGS DAM (Desenvolupament d'Aplicacions Multiplataforma) en ITIC BCN
-- Reforzando fundamentos de C, algoritmia y estructuras de datos
-- Profundizando en redes, administración de sistemas Linux y seguridad ofensiva básica
+- Going through the 42 Barcelona cursus (piscine / common core projects)
+- In parallel, studying the DAM (Multiplatform App Development) program at ITIC BCN
+- Strengthening fundamentals in C, algorithms and data structures
+- Digging into networking, Linux system administration and basic offensive security
 
 </details>
 
 <details>
-<summary><b>CÓMO TRABAJO</b></summary>
+<summary><b>HOW I WORK</b></summary>
 <br/>
 
-Prefiero entender el problema antes que memorizar una solución. La formación en 42 refuerza esto por diseño: sin clases, sin profesores, aprendizaje entre pares y evaluación por proyectos. La base en sistemas y redes (SMX) le suma una capa extra de rigor — pensar en cómo se rompe un sistema ayuda a entender cómo construirlo bien.
+I'd rather understand a problem than memorize a solution. 42's format reinforces that by design: no classes, no teachers, peer learning and project-based evaluation. The systems & networking background from SMX adds an extra layer of rigor on top — thinking about how a system breaks helps you understand how to build it right.
 
 </details>
 
 <details>
-<summary><b>TÉCNICO EN SISTEMAS Y REDES — SMX (EDT BCN, 2024–2026)</b></summary>
+<summary><b>SYSTEMS & NETWORKS TECHNICIAN — SMX (EDT BCN, 2024–2026)</b></summary>
 <br/>
 
-Formación técnica centrada en administración de sistemas, redes y seguridad informática básica — la base sobre la que ahora construyo con una formación más orientada a desarrollo y bajo nivel en 42 Barcelona.
+Technical training focused on systems administration, networking and basic information security — the foundation I'm now building on with a more development- and low-level-oriented track at 42 Barcelona.
 
 </details>
 
@@ -85,19 +85,35 @@ Formación técnica centrada en administración de sistemas, redes y seguridad i
 <summary><b>DAM — ITIC BCN (2026–2029)</b></summary>
 <br/>
 
-Desenvolupament d'Aplicacions Multiplataforma (DAM), en paralelo con 42 Barcelona — profundiza en desarrollo de aplicaciones multiplataforma sobre la base de sistemas y bajo nivel construida hasta ahora.
+Multiplatform App Development (DAM), studied in parallel with 42 Barcelona — goes deeper into multiplatform application development on top of the systems and low-level foundation built so far.
 
 </details>
 
 <br/>
 
-**PROYECTOS**
+**PROJECTS**
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/zexuguo/portfolio)
 
 <br/>
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=zexuguo&theme=github-dark&hide_border=true&background=00000000" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=zexuguo&theme=default&hide_border=true&background=00000000" />
+  <img alt="GitHub streak stats" src="https://streak-stats.demolab.com/?user=zexuguo&hide_border=true" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zexuguo/zexuguo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zexuguo/zexuguo/output/github-contribution-grid-snake.svg" />
+  <img alt="a snake eating my contribution graph" src="https://raw.githubusercontent.com/zexuguo/zexuguo/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br/><br/>
 
 <sub>zg // unique_visits <img src="https://komarev.com/ghpvc/?username=zexuguo&label=&color=000000&style=flat-square" alt="" height="13" width="24" style="vertical-align:middle;opacity:0.8"/></sub>
 
