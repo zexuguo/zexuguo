@@ -12,15 +12,15 @@
 
 ### Sobre mí
 
-Estudiante en **42 Barcelona**, con formación previa como **Técnico en Sistemas y Redes (SMX)** en **EDT BCN**. Trabajo principalmente en sistemas, redes y programación de bajo nivel, con un enfoque práctico orientado a proyectos y resolución de problemas reales antes que a la teoría por sí sola.
+Estudiante en **42 Barcelona** y, en paralelo, en el CFGS **DAM** en **ITIC BCN**, con formación previa como **Técnico en Sistemas y Redes (SMX)** en **EDT BCN**. Trabajo principalmente en sistemas, redes y programación de bajo nivel, con un enfoque práctico orientado a proyectos y resolución de problemas reales antes que a la teoría por sí sola.
 
 <br/>
 
 | | |
 |---|---|
 | `EDUCACIÓN` | 42 Barcelona (2026 — actualidad) |
+| `EN PARALELO` | Desenvolupament d'Aplicacions Multiplataforma (DAM) — ITIC BCN (2026–2029) |
 | `FORMACIÓN` | Técnico en Sistemas y Redes (SMX) — EDT BCN (2024–2026) |
-| `PRÓXIMO` | Desenvolupament d'Aplicacions Multiplataforma (DAM) — ITIC BCN (2027) |
 | `ENFOQUE` | Sistemas y Redes |
 | `UBICACIÓN` | Barcelona, España |
 
@@ -59,6 +59,7 @@ Estudiante en **42 Barcelona**, con formación previa como **Técnico en Sistema
 <br/>
 
 - Cursando el cursus de 42 Barcelona (piscina / proyectos comunes)
+- En paralelo, cursando el CFGS DAM (Desenvolupament d'Aplicacions Multiplataforma) en ITIC BCN
 - Reforzando fundamentos de C, algoritmia y estructuras de datos
 - Profundizando en redes, administración de sistemas Linux y seguridad ofensiva básica
 
@@ -81,10 +82,10 @@ Formación técnica centrada en administración de sistemas, redes y seguridad i
 </details>
 
 <details>
-<summary><b>PRÓXIMO: DAM — ITIC BCN (2027)</b></summary>
+<summary><b>DAM — ITIC BCN (2026–2029)</b></summary>
 <br/>
 
-Desenvolupament d'Aplicacions Multiplataforma (DAM), a continuación de 42 Barcelona — profundizará en desarrollo de aplicaciones multiplataforma sobre la base de sistemas y bajo nivel construida hasta ahora.
+Desenvolupament d'Aplicacions Multiplataforma (DAM), en paralelo con 42 Barcelona — profundiza en desarrollo de aplicaciones multiplataforma sobre la base de sistemas y bajo nivel construida hasta ahora.
 
 </details>
 
