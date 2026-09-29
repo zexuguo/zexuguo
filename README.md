@@ -19,7 +19,7 @@ Student at **42 Barcelona**, in parallel with the **DAM** program at **ITIC BCN*
 | | |
 |---|---|
 | `EDUCATION` | 42 Barcelona (2026 — present) |
-| `IN PARALLEL` | Multiplatform App Development (DAM) — ITIC BCN (2026–2029) |
+| `EDUCATION` | Multiplatform App Development (DAM) — ITIC BCN (2026–2029) |
 | `BACKGROUND` | Systems & Networks Technician (SMX) — EDT BCN (2024–2026) |
 | `FOCUS` | Systems & Networking |
 | `LOCATION` | Barcelona, Spain |
